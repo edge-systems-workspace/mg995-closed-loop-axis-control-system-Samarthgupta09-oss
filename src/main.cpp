@@ -32,7 +32,7 @@ void setup() {
     // TODO 6: Print system initialization message
     Serial.println("=================================");
     Serial.println(" MG995 Axis Control System Ready ");
-    Serial.println(" Enter angle between 0 and 30°  ");
+    Serial.println(" Enter angle between 0 and 45°  ");
     Serial.println("=================================");
 }
 
